@@ -187,7 +187,7 @@ section.intro {
 
 .intro {
     min-height: 100vh;
-    background: url('img/intro__bg.png') no-repeat center;
+    background: url('Img/intro__bg.png') no-repeat center;
     background-size: cover;
     position: relative;
     z-index: 1;

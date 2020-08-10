@@ -717,9 +717,9 @@ section.portfolio .about__section__title {
         z-index: 5;
         visibility: hidden;
         background-color: rgba(0, 0, 0, 0.9);
-        transition-duration: 1s;
+        transition-duration: 0.2s;
         transition-timing-function: linear;
-        transition-property: visibility;
+        transition-property: visibility, opacity;
     }
 
     .header__wrapper.active .nav__menu {

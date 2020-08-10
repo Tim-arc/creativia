@@ -41,16 +41,4 @@ const nav__menu = document.querySelector('.nav__menu');
 header__burger.addEventListener('click', () => {
     header__wrapper.classList.toggle('active');
 
-    let transitionDuration = getComputedStyle(nav__menu, false).transitionDuration;
-    transitionDuration = +transitionDuration.slice(0, transitionDuration.length - 1);
-    transitionDuration = Math.floor(transitionDuration * 1000);
-
-
-    if (header__wrapper.classList.contains('active')) {
-        nav__menu.style.transitionProperty = 'opacity, visibility';
-    } else {
-        setTimeout(() => {
-            nav__menu.style.transitionProperty = 'visibility';
-        }, transitionDuration);
-    }
 });

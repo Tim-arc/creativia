@@ -1,0 +1,12 @@
+<svg id="icon_active_" data-name="icon ( active )" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="76" viewBox="0 0 88 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0036;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M228,1643l-22-38,22-38h44l22,38-22,38H228Z" transform="translate(-206 -1567)"/>
+  <image id="_4" fill="black" data-name="4" x="31" y="32" width="24" height="21" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAYAAABc6S4mAAABQ0lEQVQ4jbWVO0sDQRSFPwPpJBgFK7W0sYgY0B+hvaWNf8BSS1NbWQn+ACtBUImCvYUPBK0sRIVYilFS+ODIhZ0wLPuY1eyBC7vDueebmWV2hiThqQYsAQvR8wNwANyQrElgGZgBPoFr4Bh46rsNENWqpHcla0dS3fPaxDZSvKZN53UN2xlmp66kWUk1SfcB/rZl20yawEXKFsT1DXSB0UD/mgEOgcXAhqJ6rADNksJNw7YC+/rVkgA9W8FbSeGmLwMclQh4ti2asIeSACtFzkFRnbpz4GiXwNyAZv4BTAGvFW9wHrgbQHgPmLZwe/EBP0ADOP9HeCea6Et/xPuB+XXyhz3vSBqLZ6UBrPYLhN9KGknKyQKEQq4kVdMy8gBWWxnh7bz+EIDVbkL4WUhvKMCq5YXvhfbF7+Q8rQPjdpEEuYFfxLsh64B2Y4kAAAAASUVORK5CYII="/>
+</svg>

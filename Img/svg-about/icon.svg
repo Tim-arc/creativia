@@ -1,0 +1,15 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="77" viewBox="0 0 89 77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #262626;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M827,1642l-22-38,22-38h44l22,38-22,38H827Z" transform="translate(-804.5 -1565.5)"/>
+  <image id="_2" data-name="2" x="31.5" y="24.5" width="26" height="31" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAfCAYAAAD5h919AAAA/ElEQVRIie3XvUoDQRSG4WfXpBBEwbWxE4S9AS29BsHORi/BwkKwtTKlVXptrL0Pr8CAXSqxEFEh4MrAbEghZlc2YjEfHObMz/neme5MVpYlXOIEy7rVO65wvlQUxSku0O8YInru4SW8aIxNfOIOzx1B1rGPHOMeVuPGIw46gtQaYRtrgTaJix8dQ2Y9JwFUxUlvAaDas8oXYP6tEiiBEiiBEiiB/huo+uHcbzX1/DPQbJ+whTM8zSleiePrnHMb0XMKymIeutRB+0s3Upa37FAfsBtj1KKun8f+uKlucR8j5E31FkDDFgWH2IkR8qYa1r+Jaxy1KGyjGxx/AcAYJqXzrl+YAAAAAElFTkSuQmCC"/>
+</svg>
